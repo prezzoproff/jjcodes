@@ -15,7 +15,7 @@ int main()
     scanf("%d", &num2);
 
     result = num1*num2;
-
+   
     printf("%d * %d = %d", num1,num2,result);
 
 }
