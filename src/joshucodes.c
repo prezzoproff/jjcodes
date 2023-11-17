@@ -3,7 +3,7 @@
 int main()
 {
     int position=2; // var declaration and init
-    char grade = 'A';
+    char grade = 'B';
     printf("joshua was position %d with grade %c this term",position,grade ); // statement
     return 0;
 }
