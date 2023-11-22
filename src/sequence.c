@@ -8,9 +8,9 @@ int main (){
     if(age>18){
         printf("you are an adult");
     }
-    // else{
-    //     printf("you are child");
-    // }
+    else{
+        printf("you are child");
+    }
 
     return 0;
 
