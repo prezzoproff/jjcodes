@@ -2,9 +2,9 @@
 int main ()
 {
 
-    int k=1;
+    int k=1; // var decl and init
     do{
-        printf("%d\n", k);
-        k++;
-    }while(k<21);
+        printf("%d\n", k); // statement
+        k++;                // increment/decrement
+    }while(k<21);    // condition
 }
