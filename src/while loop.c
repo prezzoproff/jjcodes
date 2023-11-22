@@ -3,11 +3,11 @@
 #include <stdio.h>
 int main ()
 {
-    int n=101;             // 1. var declaration and initialisation
-    while (n>1)           //2. condition
+    int n=100;             // 1. var declaration and initialisation
+    while (n>0)           //2. condition
     {
         printf("%d\n",n);     // Statements
-        n--;                   
+        n--;                // Increment/ decrement   
     }
     return 0;
 }
